@@ -12,6 +12,8 @@ abstract class Interest{
 	abstract void roi(int ch,int a,int b);
 }
 
+
+
 class Loan1 extends Interest{
 	
 	void roi(int ch,int a,int c) {
