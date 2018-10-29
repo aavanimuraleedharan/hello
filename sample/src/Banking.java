@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 abstract class Interest{
 	
-	abstract void roi(int ch,int a,int b);
+	abstract void roi(int ch,int a,int c);
 }
 
 
